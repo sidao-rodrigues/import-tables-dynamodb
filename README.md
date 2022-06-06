@@ -8,7 +8,7 @@ Para informar a tabela de origem e a tabela de destino, basta informar os nomes 
 
 ## Execução
 
-Após configurado as tebelas lembre-se de dar um `npm install`
+Após configurado as tabelas lembre-se de dar um `npm install`
 
 Para executar o scrip basta executar o comando:
 
