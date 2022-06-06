@@ -1,0 +1,15 @@
+{
+  "name": "import_tables",
+  "version": "1.0.0",
+  "description": "import tables dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "import": "node src/index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.153.0"
+  },
+  "author": "Sidney L.",
+  "license": "ISC"
+}

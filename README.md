@@ -1,4 +1,4 @@
-# Script para importar e exportar dados entre tabelas no Dynamondb da AWS.
+# Script para importar e exportar dados entre tabelas no Dynamodb da AWS.
 
 Já existem um arquivo de debug caso queria debugar o script e ver o passo a passo.
 
